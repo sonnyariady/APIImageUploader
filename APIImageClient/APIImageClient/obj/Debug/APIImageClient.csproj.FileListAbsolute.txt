@@ -1,0 +1,26 @@
+D:\Sonny\APIImageClient\APIImageClient\bin\Debug\APIImageClient.exe.config
+D:\Sonny\APIImageClient\APIImageClient\bin\Debug\APIImageClient.exe
+D:\Sonny\APIImageClient\APIImageClient\bin\Debug\APIImageClient.pdb
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csprojAssemblyReference.cache
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.Form1.resources
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.Properties.Resources.resources
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.GenerateResource.cache
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.CoreCompileInputs.cache
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.exe
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.pdb
+D:\Sonny\APIImageClient\APIImageClient\bin\Debug\Newtonsoft.Json.dll
+D:\Sonny\APIImageClient\APIImageClient\bin\Debug\Newtonsoft.Json.xml
+D:\Sonny\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.CopyComplete
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\bin\Debug\APIImageClient.exe.config
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\bin\Debug\APIImageClient.exe
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\bin\Debug\APIImageClient.pdb
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\bin\Debug\Newtonsoft.Json.dll
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\bin\Debug\Newtonsoft.Json.xml
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csprojAssemblyReference.cache
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.Form1.resources
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.Properties.Resources.resources
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.GenerateResource.cache
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.CoreCompileInputs.cache
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.csproj.CopyComplete
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.exe
+D:\Sonny\Tugas MBHealth\APIImageClient\APIImageClient\obj\Debug\APIImageClient.pdb

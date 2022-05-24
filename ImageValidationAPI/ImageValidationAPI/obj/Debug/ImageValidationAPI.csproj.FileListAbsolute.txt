@@ -1,0 +1,164 @@
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.dll.config
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.pdb
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.exe
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.exe.config
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.rsp
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.exe
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.exe.config
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.rsp
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.AppContext.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Console.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Compression.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Claims.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.ValueTuple.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.exe
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.exe.config
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.rsp
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\VBCSCompiler.exe
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Antlr3.Runtime.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Newtonsoft.Json.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Net.Http.Formatting.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Helpers.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.WebHost.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Mvc.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Optimization.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Razor.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Razor.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\WebGrease.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Newtonsoft.Json.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Net.Http.Formatting.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Helpers.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.WebHost.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Mvc.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Optimization.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Razor.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Razor.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Antlr3.Runtime.pdb
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csprojAssemblyReference.cache
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csproj.CoreCompileInputs.cache
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csproj.CopyComplete
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.dll
+D:\Sonny\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.pdb
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.dll.config
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\ImageValidationAPI.pdb
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.exe
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.exe.config
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csc.rsp
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.exe
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.exe.config
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\csi.rsp
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.AppContext.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Console.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Compression.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Claims.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.ValueTuple.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.exe
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.exe.config
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\vbc.rsp
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\VBCSCompiler.exe
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Antlr3.Runtime.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Newtonsoft.Json.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Net.Http.Formatting.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Helpers.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.WebHost.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Mvc.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Optimization.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Razor.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Razor.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\WebGrease.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Newtonsoft.Json.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Net.Http.Formatting.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Helpers.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Http.WebHost.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Mvc.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Optimization.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.Razor.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\System.Web.WebPages.Razor.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Antlr3.Runtime.pdb
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csprojAssemblyReference.cache
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csproj.CoreCompileInputs.cache
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.csproj.CopyComplete
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.dll
+D:\Sonny\Tugas MBHealth\ImageValidationAPI\ImageValidationAPI\obj\Debug\ImageValidationAPI.pdb
